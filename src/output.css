@@ -202,9 +202,6 @@
   .w-42\.5 {
     width: calc(var(--spacing) * 42.5);
   }
-  .w-\[170px\] {
-    width: 170px;
-  }
   .w-full {
     width: 100%;
   }
@@ -242,10 +239,6 @@
     border-radius: var(--radius-lg);
   }
   .border {
-    border-style: var(--tw-border-style);
-    border-width: 1px;
-  }
-  .border-1 {
     border-style: var(--tw-border-style);
     border-width: 1px;
   }
